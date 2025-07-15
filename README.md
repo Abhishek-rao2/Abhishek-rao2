@@ -1,5 +1,3 @@
-![CI](https://github.com/Abhishek-rao2/docker-apache-static-site/actions/workflows/docker-build.yml/badge.svg)
-
 <!-- Banner -->
 <p align="center">
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMc/XdzVrE9DduI/AAAAAAAACv0/1iILXkGqJ3ocRk9sGxA4P3QZwVnmAxlKQCLcBGAsYHQ/s1600/devops_banner.gif" alt="DevOps Banner"/>
