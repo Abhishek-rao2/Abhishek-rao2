@@ -1,7 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMc/XdzVrE9DduI/AAAAAAAACv0/1iILXkGqJ3ocRk9sGxA4P3QZwVnmAxlKQCLcBGAsYHQ/s1600/devops_banner.gif" alt="DevOps Banner"/>
-</p>
+ 
+ 
 
 <h1 align="center">Hi 👋, I'm Abhishek Rao</h1>
 <h3 align="center">🚀 Passionate AWS Cloud & DevOps Engineer</h3>
