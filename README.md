@@ -1,12 +1,8 @@
  
- 
-
 <h1 align="center">Hi 👋, I'm Abhishek Rao</h1>
 <h3 align="center">🚀 Passionate AWS Cloud & DevOps Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekrao&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+
 
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca9486e0f9f9b0bd9e5bc6a6bd.gif" />
