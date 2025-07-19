@@ -64,7 +64,6 @@
 - ✅ AWS Cloud Certification – MicroDegree  
 - ✅ DevOps Certification – MicroDegree  
 - ✅ Basics of Python – Great Learning  
-- ✅ DevOps Engineer Skill Test – One Roadmap  
 
 ---
 
