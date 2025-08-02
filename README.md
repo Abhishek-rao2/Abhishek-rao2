@@ -63,7 +63,7 @@
 
 - ✅ AWS Cloud Certification – MicroDegree  
 - ✅ DevOps Certification – MicroDegree  
-- ✅ Basics of Python – Great Learning  
+- ✅ CERTIFICATE OF COMPLETION Ultimate DevOps Project Implementation
 
 ---
 
